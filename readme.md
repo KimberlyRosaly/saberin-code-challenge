@@ -1,4 +1,4 @@
--LOCAL TEST VERSION ONLY-
+- L O C A L   T E S T   V E R S I O N  O N L Y -
 
 # Contact Manager
 This solution contains an easy to use and simple contact manager. It also works well on mobile devices!
